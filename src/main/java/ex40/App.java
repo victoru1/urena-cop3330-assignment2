@@ -3,46 +3,59 @@
 *  Copyright 2021 Victor Urena
 */
 
-import java.util.Date;
-import java.util.Scanner;
+package ex40;
 
-public class Main {
-        public static void main(String[] args) {        
-                Record[] records = {
-                        new Record("John", "Johnson", "Manager", new Date(2016, 12, 31)),
-                        new Record("Tou", "Xiong", "Software Engineer", new Date(2016, 10, 5)),
-                        new Record("Michaela", "Michaelson", "District Manager", new Date(2015, 12, 19)),
-                        new Record("Jake", "Jacobson", "Programmer", null),
-                        new Record("Jacquelyn", "Jockson", "DBA", null),
-                        new Record("Sally", "Webber", "Web Developer", new Date(2015, 12, 18))  
-                };
-                Scanner sc = new Scanner(System.in);
-                System.out.print("Enter a search string: ");
-                String target = sc.nextLine();
-                System.out.println("\nResults:\n");
-                System.out.printf("%-20s | %-20s | %-20s\n", "Name", "Position", "Seperation Date");
-                System.out.printf("%-21s|%-22s|%-21s\n", "-".repeat(21), "-".repeat(22), "-".repeat(21));
-                for(Record record : records) {
-                        String temp;
-                        if(record.seperationDate == null) temp = "";
-                        else  temp = record.seperationDate.toString();
-                        if(record.firstName.contains(target) || record.lastName.contains(target)) 
-                                System.out.printf("%-20s | %-20s | %-20s\n",  record.firstName + " " + 
-                                record.lastName, record.position, temp);
-                }
-                sc.close();             
-        }
-}
-class Record {
-        String firstName;
-        String lastName;
-        String position;
-        Date seperationDate;
-        public Record(String firstName, String lastName, 
-                        String position, Date seperationDate) {
+import java.util.Date;
+import java.util.TreeMap;
+
+class Employee {
+
+        static TreeMap<Integer, Employee> employees = new TreeMap<>();
+
+        private String firstName;
+        private String lasstName;
+        private String position;
+        private Date separationDate;
+
+        public Employee(String firstName, String lasstName, String position) {
                 this.firstName = firstName;
-                this.lastName = lastName;
+                this.lasstName = lasstName;
                 this.position = position;
-                this.seperationDate = seperationDate;
+        }
+        public Employee(String firstName, String lasstName, String position, Date separationDate) {
+                this.firstName = firstName;
+                this.lasstName = lasstName;
+                this.position = position;
+                this.separationDate = separationDate;
+        }
+
+        public String getFirstName() { return firstName; }
+        public void setFirstName(String firstName) { this.firstName = firstName; }
+
+        public String getLasstName() { return lasstName; }
+        public void setLasstName(String lasstName) { this.lasstName = lasstName; }
+
+        public String getPosition() { return position; }
+        public void setPosition(String position) { this.position = position; }
+
+        public Date getSeparationDate() { return separationDate; }
+        public void setSeparationDate(Date separationDate) { this.separationDate = separationDate; }
+
+        @Override
+        public String toString() {
+                return "Employee[ " + "firstName=" + firstName + ", lasstName=" + lasstName
+                        + ", position=" + position + ", separationDate=" + separationDate + " ]";
+        }
+
+
+        public static int search(String name){
+                int count = 0;
+                for(int k : employees.keySet()){
+                        if(employees.get(k).getFirstName().equalsIgnoreCase(name) || employees.get(k).getLasstName().equalsIgnoreCase(name)){
+                                count++;
+                                System.out.println(employees.get(k));
+                        }
+                }
+                return count;
         }
 }

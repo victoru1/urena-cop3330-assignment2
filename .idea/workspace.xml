@@ -4,52 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f00b90d-5eb2-469b-9b38-4cf2565bbeaa" name="Changes" comment="yes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex24/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex25/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex26/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex27/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex28/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex29/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex30/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex31/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex32/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex33/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex34/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex35/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex36/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex37/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex38/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex39/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex40/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex24/AnagramCheckerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex25/PasswordValidatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex26/PaymentCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex27/InputValidationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex28/AddingNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex29/BadInputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex30/MultiplicationTableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex31/HeartRateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex32/GuessGameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex33/Magic8BallTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex34/employeeRemovalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex35/PickingWinnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex36/ComputingStatisticsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex37/PasswordGeneratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex38/FilteringValuesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex39/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex40/FilteringRecordsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="1f00b90d-5eb2-469b-9b38-4cf2565bbeaa" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex40/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex40/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex40/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ex40/FilteringRecordsTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +71,7 @@
       <recent name="ex36" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AnagramCheckerTest.isAnagram">
+  <component name="RunManager" selected="JUnit.EmployeeTest">
     <configuration name="AddingNumbersTest.loop" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Assignment2" />
       <extension name="coverage">
@@ -145,6 +104,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex40" />
+      <option name="MAIN_CLASS_NAME" value="ex40.EmployeeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InputValidationTest.validateEmployeeID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment2" />
       <extension name="coverage">
@@ -156,22 +130,6 @@
       <option name="PACKAGE_NAME" value="ex27" />
       <option name="MAIN_CLASS_NAME" value="ex27.InputValidationTest" />
       <option name="METHOD_NAME" value="validateEmployeeID" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InputValidationTest.validateLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ex27" />
-      <option name="MAIN_CLASS_NAME" value="ex27.InputValidationTest" />
-      <option name="METHOD_NAME" value="validateLastName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.AnagramCheckerTest.isAnagram" />
         <item itemvalue="JUnit.PasswordGeneratorTest.generatePassword" />
         <item itemvalue="JUnit.InputValidationTest.validateEmployeeID" />
         <item itemvalue="JUnit.InputValidationTest.validateZipCode" />
-        <item itemvalue="JUnit.InputValidationTest.validateLastName" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +186,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632748165145</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1632774368488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632774368488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,6 +297,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yes" />
-    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
