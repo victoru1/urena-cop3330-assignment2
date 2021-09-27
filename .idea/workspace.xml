@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f00b90d-5eb2-469b-9b38-4cf2565bbeaa" name="Changes" comment="yes">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex24/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex25/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex26/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex27/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex28/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex29/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex30/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex31/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex32/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex33/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex34/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex35/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex36/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex37/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex38/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex39/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex40/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex24/AnagramCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex25/PasswordValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex26/PaymentCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex27/InputValidationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex28/AddingNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex29/BadInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex30/MultiplicationTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex31/HeartRateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex32/GuessGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex33/Magic8BallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex34/employeeRemovalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex35/PickingWinnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex36/ComputingStatisticsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex37/PasswordGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex38/FilteringValuesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex39/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex40/FilteringRecordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../COP/apache-maven-3.8.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yixMihdVtpnKbN9MAZ8JTZIUY7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\src\main\java\ex40" />
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\src\main\java\ex39" />
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\src\main\java\ex38" />
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\src\main\java\ex37" />
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\src\main\java\ex36" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\src\test" />
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\target" />
+      <recent name="C:\Users\victo\IdeaProjects\Assignment2\src\main\java\ex24" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ex40" />
+      <recent name="ex39" />
+      <recent name="ex38" />
+      <recent name="ex37" />
+      <recent name="ex36" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AnagramCheckerTest.isAnagram">
+    <configuration name="AddingNumbersTest.loop" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex28" />
+      <option name="MAIN_CLASS_NAME" value="ex28.AddingNumbersTest" />
+      <option name="METHOD_NAME" value="loop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramCheckerTest.isAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex24" />
+      <option name="MAIN_CLASS_NAME" value="ex24.AnagramCheckerTest" />
+      <option name="METHOD_NAME" value="isAnagram" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputValidationTest.validateEmployeeID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex27" />
+      <option name="MAIN_CLASS_NAME" value="ex27.InputValidationTest" />
+      <option name="METHOD_NAME" value="validateEmployeeID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputValidationTest.validateLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex27" />
+      <option name="MAIN_CLASS_NAME" value="ex27.InputValidationTest" />
+      <option name="METHOD_NAME" value="validateLastName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputValidationTest.validateZipCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex27" />
+      <option name="MAIN_CLASS_NAME" value="ex27.InputValidationTest" />
+      <option name="METHOD_NAME" value="validateZipCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordGeneratorTest.generatePassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex37.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex37" />
+      <option name="MAIN_CLASS_NAME" value="ex37.PasswordGeneratorTest" />
+      <option name="METHOD_NAME" value="generatePassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnagramCheckerTest.isAnagram" />
+        <item itemvalue="JUnit.PasswordGeneratorTest.generatePassword" />
+        <item itemvalue="JUnit.InputValidationTest.validateEmployeeID" />
+        <item itemvalue="JUnit.InputValidationTest.validateZipCode" />
+        <item itemvalue="JUnit.InputValidationTest.validateLastName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f00b90d-5eb2-469b-9b38-4cf2565bbeaa" name="Changes" comment="" />
+      <created>1632748165145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632748165145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="2e2c1f4e-93de-4e0b-9b30-2bdd03889ccf">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/victo/IdeaProjects/Assignment2/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4bd8c6b0-9e03-4f8e-9175-d85bed4481c1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="b07fc194-0684-479b-ac55-cd8a1cdef465">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/victo/IdeaProjects/Assignment2/target/generated-test-sources" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+  </component>
+</project>
